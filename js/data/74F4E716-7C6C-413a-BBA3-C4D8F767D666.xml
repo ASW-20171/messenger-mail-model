@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.2:1", "", "Data Access Layer", "EARoot/EA1/EA2/EA13.htm", "175.png", "27", "0", "", "Logical diagram0","{CC9A06B7-262F-45c3-89D1-A1A101D214D7}");
+tocTab[tocTab.length] = new Array("1.2:2", "", "«interface» IDataData", "EARoot/EA1/EA2/EA15.htm", "8.png", "90", "0", "", "Interface0","{918AC1EC-D062-4506-8911-4E25D3DBA951}");
+tocTab[tocTab.length] = new Array("1.2:3", "", "«interface» IMessageData", "EARoot/EA1/EA2/EA16.htm", "8.png", "88", "0", "", "Interface0","{D4A3B181-94E8-4e6e-96B6-9415069ACAA7}");
